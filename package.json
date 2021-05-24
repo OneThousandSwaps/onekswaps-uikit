@@ -1,5 +1,5 @@
 {
-  "name": "@onekswap-libs/uikit",
+  "name": "@onekswaps-libs/uikit",
   "version": "0.1.0",
   "description": "Set of UI components for one thousand swaps projects",
   "main": "dist/index.js",
