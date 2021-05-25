@@ -1,10 +1,10 @@
 {
   "name": "@onekswaps-libs/uikit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Set of UI components for one thousand swaps projects",
-  "main": "index.js",
-  "module": "index.esm.js",
-  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
